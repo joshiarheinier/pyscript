@@ -1,3 +1,6 @@
+##XEcryption Encryption Program for python 3 (with GUI)
+##Developed by Joshia Rheinier P.
+
 from tkinter import *
 from tkinter import filedialog
 from tkinter.scrolledtext import *
