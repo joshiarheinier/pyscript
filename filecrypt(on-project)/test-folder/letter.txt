@@ -1,0 +1,7 @@
+Date: Sat, 10 Sep 2016 15:00:31 +0700
+To: joshi.josie@yahoo.com
+Subject: terminal test
+User-Agent: s-nail v14.8.6
+
+Hi joshia,
+This is me, joshia. I send this email through terminal of Ubuntu 16.04

@@ -1,0 +1,4 @@
+Encrypted Directory:/home/joshia/Documents/pyscript/filecrypt/test-folder
+Timestamp:Monday 10/17/16 21.32.27
+Encryption ID:e928c09c47820ad68260b1f49c2a75ef825d289b
+Decrypted:Yes
