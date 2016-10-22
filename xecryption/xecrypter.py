@@ -1,5 +1,7 @@
 ##XEcryption Encryption Program for python 3 (with GUI)
 ##Developed by Joshia Rheinier P.
+##Compatible with versions of Python 3 and above
+##Downloaded module used: none
 
 from tkinter import *
 from tkinter import filedialog
